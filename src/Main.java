@@ -44,6 +44,8 @@ public class Main {
             }
         }
 
+        System.out.print(theStack);
+
         //Display the original collections
         IO.print("\nOriginal Collections: ");
 
